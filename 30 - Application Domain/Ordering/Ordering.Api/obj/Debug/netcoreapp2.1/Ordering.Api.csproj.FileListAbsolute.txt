@@ -1,0 +1,15 @@
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Api\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Api\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Api\bin\Debug\netcoreapp2.1\Ordering.Api.deps.json
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Api\bin\Debug\netcoreapp2.1\Ordering.Api.runtimeconfig.json
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Api\bin\Debug\netcoreapp2.1\Ordering.Api.runtimeconfig.dev.json
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Api\bin\Debug\netcoreapp2.1\Ordering.Api.dll
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Api\bin\Debug\netcoreapp2.1\Ordering.Api.pdb
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Api\obj\Debug\netcoreapp2.1\Ordering.Api.csproj.AssemblyReference.cache
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Api\obj\Debug\netcoreapp2.1\Ordering.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Api\obj\Debug\netcoreapp2.1\Ordering.Api.AssemblyInfoInputs.cache
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Api\obj\Debug\netcoreapp2.1\Ordering.Api.AssemblyInfo.cs
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Api\obj\Debug\netcoreapp2.1\Ordering.Api.csproj.CoreCompileInputs.cache
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Api\obj\Debug\netcoreapp2.1\Ordering.Api.dll
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Api\obj\Debug\netcoreapp2.1\Ordering.Api.pdb
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Api\obj\Debug\netcoreapp2.1\Ordering.Api.genruntimeconfig.cache

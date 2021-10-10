@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "m/M/33nL9JwTiql4NVYPePA8FuQOddyitbG9nzMczbVGOkVOVPJNmOjU6aLGmaJOxaKe9+qJoibVzRhnF8Nmbg==",
+  "success": true,
+  "projectFilePath": "D:\\Maher\\Pro\\Dev apps\\Archit_REST_WITH_DDD\\40 - Infrastructure\\BestDeals.Core\\BestDeals.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maher\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\maher\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

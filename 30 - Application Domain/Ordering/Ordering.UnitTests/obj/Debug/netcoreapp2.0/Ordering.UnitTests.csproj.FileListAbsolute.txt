@@ -1,0 +1,16 @@
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.UnitTests\bin\Debug\netcoreapp2.0\Ordering.UnitTests.deps.json
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.UnitTests\bin\Debug\netcoreapp2.0\Ordering.UnitTests.runtimeconfig.json
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.UnitTests\bin\Debug\netcoreapp2.0\Ordering.UnitTests.runtimeconfig.dev.json
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.UnitTests\bin\Debug\netcoreapp2.0\Ordering.UnitTests.dll
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.UnitTests\bin\Debug\netcoreapp2.0\Ordering.UnitTests.pdb
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.UnitTests\obj\Debug\netcoreapp2.0\Ordering.UnitTests.csproj.AssemblyReference.cache
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.UnitTests\obj\Debug\netcoreapp2.0\Ordering.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.UnitTests\obj\Debug\netcoreapp2.0\Ordering.UnitTests.AssemblyInfoInputs.cache
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.UnitTests\obj\Debug\netcoreapp2.0\Ordering.UnitTests.AssemblyInfo.cs
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.UnitTests\obj\Debug\netcoreapp2.0\Ordering.UnitTests.csproj.CoreCompileInputs.cache
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.UnitTests\obj\Debug\netcoreapp2.0\Ordering.UnitTests.dll
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.UnitTests\obj\Debug\netcoreapp2.0\Ordering.UnitTests.pdb
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.UnitTests\obj\Debug\netcoreapp2.0\Ordering.UnitTests.genruntimeconfig.cache

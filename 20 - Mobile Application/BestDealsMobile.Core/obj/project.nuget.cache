@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MpxPp6qMo8uPayqX1/h20qIHV+N/i94OovxL483aVQ3Pi9jzLl76RbQYMDtYCm+YDjyd8pkhVrRfkbwxWaDIWg==",
+  "success": true,
+  "projectFilePath": "D:\\Maher\\Pro\\Dev apps\\Archit_REST_WITH_DDD\\20 - Mobile Application\\BestDealsMobile.Core\\BestDealsMobile.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maher\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\maher\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\maher\\.nuget\\packages\\stylecop.analyzers\\1.0.2\\stylecop.analyzers.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

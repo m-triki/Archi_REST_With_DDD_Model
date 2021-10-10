@@ -1,0 +1,9 @@
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Identity\Identity.Services\bin\Debug\netstandard2.0\Identity.Services.deps.json
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Identity\Identity.Services\bin\Debug\netstandard2.0\Identity.Services.dll
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Identity\Identity.Services\bin\Debug\netstandard2.0\Identity.Services.pdb
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Identity\Identity.Services\obj\Debug\netstandard2.0\Identity.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Identity\Identity.Services\obj\Debug\netstandard2.0\Identity.Services.AssemblyInfoInputs.cache
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Identity\Identity.Services\obj\Debug\netstandard2.0\Identity.Services.AssemblyInfo.cs
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Identity\Identity.Services\obj\Debug\netstandard2.0\Identity.Services.csproj.CoreCompileInputs.cache
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Identity\Identity.Services\obj\Debug\netstandard2.0\Identity.Services.dll
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Identity\Identity.Services\obj\Debug\netstandard2.0\Identity.Services.pdb

@@ -1,0 +1,9 @@
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Services\bin\Debug\netstandard2.0\Ordering.Services.deps.json
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Services\bin\Debug\netstandard2.0\Ordering.Services.dll
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Services\bin\Debug\netstandard2.0\Ordering.Services.pdb
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Services\obj\Debug\netstandard2.0\Ordering.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Services\obj\Debug\netstandard2.0\Ordering.Services.AssemblyInfoInputs.cache
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Services\obj\Debug\netstandard2.0\Ordering.Services.AssemblyInfo.cs
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Services\obj\Debug\netstandard2.0\Ordering.Services.csproj.CoreCompileInputs.cache
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Services\obj\Debug\netstandard2.0\Ordering.Services.dll
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Services\obj\Debug\netstandard2.0\Ordering.Services.pdb

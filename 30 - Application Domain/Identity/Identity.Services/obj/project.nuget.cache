@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lM4/Ukx3fxBEDL4W66x8jrTFRCf1GFLClreyyRXnWfFvEb6DGjzWQRG73VQzGQw24ml/6BxV2Q3XWGT+shD8tQ==",
+  "success": true,
+  "projectFilePath": "D:\\Maher\\Pro\\Dev apps\\Archit_REST_WITH_DDD\\30 - Application Domain\\Identity\\Identity.Services\\Identity.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maher\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\maher\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

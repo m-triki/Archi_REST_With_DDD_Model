@@ -1,0 +1,16 @@
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\10 - Web Application\BestDeals.Admin\BestDeals.Admin\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\10 - Web Application\BestDeals.Admin\BestDeals.Admin\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\10 - Web Application\BestDeals.Admin\BestDeals.Admin\bin\Debug\netcoreapp2.1\bundleconfig.json
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\10 - Web Application\BestDeals.Admin\BestDeals.Admin\bin\Debug\netcoreapp2.1\BestDeals.Admin.deps.json
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\10 - Web Application\BestDeals.Admin\BestDeals.Admin\bin\Debug\netcoreapp2.1\BestDeals.Admin.runtimeconfig.json
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\10 - Web Application\BestDeals.Admin\BestDeals.Admin\bin\Debug\netcoreapp2.1\BestDeals.Admin.runtimeconfig.dev.json
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\10 - Web Application\BestDeals.Admin\BestDeals.Admin\bin\Debug\netcoreapp2.1\BestDeals.Admin.dll
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\10 - Web Application\BestDeals.Admin\BestDeals.Admin\bin\Debug\netcoreapp2.1\BestDeals.Admin.pdb
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\10 - Web Application\BestDeals.Admin\BestDeals.Admin\obj\Debug\netcoreapp2.1\BestDeals.Admin.csproj.AssemblyReference.cache
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\10 - Web Application\BestDeals.Admin\BestDeals.Admin\obj\Debug\netcoreapp2.1\BestDeals.Admin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\10 - Web Application\BestDeals.Admin\BestDeals.Admin\obj\Debug\netcoreapp2.1\BestDeals.Admin.AssemblyInfoInputs.cache
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\10 - Web Application\BestDeals.Admin\BestDeals.Admin\obj\Debug\netcoreapp2.1\BestDeals.Admin.AssemblyInfo.cs
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\10 - Web Application\BestDeals.Admin\BestDeals.Admin\obj\Debug\netcoreapp2.1\BestDeals.Admin.csproj.CoreCompileInputs.cache
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\10 - Web Application\BestDeals.Admin\BestDeals.Admin\obj\Debug\netcoreapp2.1\BestDeals.Admin.dll
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\10 - Web Application\BestDeals.Admin\BestDeals.Admin\obj\Debug\netcoreapp2.1\BestDeals.Admin.pdb
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\10 - Web Application\BestDeals.Admin\BestDeals.Admin\obj\Debug\netcoreapp2.1\BestDeals.Admin.genruntimeconfig.cache

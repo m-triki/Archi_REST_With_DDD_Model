@@ -1,0 +1,15 @@
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.FunctionalTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.FunctionalTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.FunctionalTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.FunctionalTests\bin\Debug\netcoreapp2.0\Ordering.FunctionalTests.deps.json
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.FunctionalTests\bin\Debug\netcoreapp2.0\Ordering.FunctionalTests.runtimeconfig.json
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.FunctionalTests\bin\Debug\netcoreapp2.0\Ordering.FunctionalTests.runtimeconfig.dev.json
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.FunctionalTests\bin\Debug\netcoreapp2.0\Ordering.FunctionalTests.dll
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.FunctionalTests\bin\Debug\netcoreapp2.0\Ordering.FunctionalTests.pdb
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.FunctionalTests\obj\Debug\netcoreapp2.0\Ordering.FunctionalTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.FunctionalTests\obj\Debug\netcoreapp2.0\Ordering.FunctionalTests.AssemblyInfoInputs.cache
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.FunctionalTests\obj\Debug\netcoreapp2.0\Ordering.FunctionalTests.AssemblyInfo.cs
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.FunctionalTests\obj\Debug\netcoreapp2.0\Ordering.FunctionalTests.csproj.CoreCompileInputs.cache
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.FunctionalTests\obj\Debug\netcoreapp2.0\Ordering.FunctionalTests.dll
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.FunctionalTests\obj\Debug\netcoreapp2.0\Ordering.FunctionalTests.pdb
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.FunctionalTests\obj\Debug\netcoreapp2.0\Ordering.FunctionalTests.genruntimeconfig.cache

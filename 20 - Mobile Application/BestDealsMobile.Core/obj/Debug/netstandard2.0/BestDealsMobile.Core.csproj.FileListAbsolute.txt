@@ -1,0 +1,10 @@
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\20 - Mobile Application\BestDealsMobile.Core\bin\Debug\netstandard2.0\BestDealsMobile.Core.deps.json
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\20 - Mobile Application\BestDealsMobile.Core\bin\Debug\netstandard2.0\BestDealsMobile.Core.dll
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\20 - Mobile Application\BestDealsMobile.Core\bin\Debug\netstandard2.0\BestDealsMobile.Core.pdb
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\20 - Mobile Application\BestDealsMobile.Core\obj\Debug\netstandard2.0\BestDealsMobile.Core.csproj.AssemblyReference.cache
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\20 - Mobile Application\BestDealsMobile.Core\obj\Debug\netstandard2.0\BestDealsMobile.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\20 - Mobile Application\BestDealsMobile.Core\obj\Debug\netstandard2.0\BestDealsMobile.Core.AssemblyInfoInputs.cache
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\20 - Mobile Application\BestDealsMobile.Core\obj\Debug\netstandard2.0\BestDealsMobile.Core.AssemblyInfo.cs
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\20 - Mobile Application\BestDealsMobile.Core\obj\Debug\netstandard2.0\BestDealsMobile.Core.csproj.CoreCompileInputs.cache
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\20 - Mobile Application\BestDealsMobile.Core\obj\Debug\netstandard2.0\BestDealsMobile.Core.dll
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\20 - Mobile Application\BestDealsMobile.Core\obj\Debug\netstandard2.0\BestDealsMobile.Core.pdb

@@ -1,0 +1,15 @@
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Identity\Identity.Infrastructure\bin\Debug\netstandard2.0\Identity.Infrastructure.deps.json
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Identity\Identity.Infrastructure\bin\Debug\netstandard2.0\Identity.Infrastructure.dll
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Identity\Identity.Infrastructure\bin\Debug\netstandard2.0\Identity.Infrastructure.pdb
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Identity\Identity.Infrastructure\bin\Debug\netstandard2.0\BestDeals.Core.dll
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Identity\Identity.Infrastructure\bin\Debug\netstandard2.0\Identity.Domain.dll
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Identity\Identity.Infrastructure\bin\Debug\netstandard2.0\Identity.Domain.pdb
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Identity\Identity.Infrastructure\bin\Debug\netstandard2.0\BestDeals.Core.pdb
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Identity\Identity.Infrastructure\obj\Debug\netstandard2.0\Identity.Infrastructure.csproj.AssemblyReference.cache
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Identity\Identity.Infrastructure\obj\Debug\netstandard2.0\Identity.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Identity\Identity.Infrastructure\obj\Debug\netstandard2.0\Identity.Infrastructure.AssemblyInfoInputs.cache
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Identity\Identity.Infrastructure\obj\Debug\netstandard2.0\Identity.Infrastructure.AssemblyInfo.cs
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Identity\Identity.Infrastructure\obj\Debug\netstandard2.0\Identity.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Identity\Identity.Infrastructure\obj\Debug\netstandard2.0\Identity.Infrastructure.csproj.CopyComplete
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Identity\Identity.Infrastructure\obj\Debug\netstandard2.0\Identity.Infrastructure.dll
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Identity\Identity.Infrastructure\obj\Debug\netstandard2.0\Identity.Infrastructure.pdb

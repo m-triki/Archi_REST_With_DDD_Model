@@ -1,0 +1,9 @@
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Infrastructure\bin\Debug\netstandard2.0\Ordering.Infrastructure.deps.json
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Infrastructure\bin\Debug\netstandard2.0\Ordering.Infrastructure.dll
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Infrastructure\bin\Debug\netstandard2.0\Ordering.Infrastructure.pdb
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Infrastructure\obj\Debug\netstandard2.0\Ordering.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Infrastructure\obj\Debug\netstandard2.0\Ordering.Infrastructure.AssemblyInfoInputs.cache
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Infrastructure\obj\Debug\netstandard2.0\Ordering.Infrastructure.AssemblyInfo.cs
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Infrastructure\obj\Debug\netstandard2.0\Ordering.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Infrastructure\obj\Debug\netstandard2.0\Ordering.Infrastructure.dll
+D:\Maher\Pro\Dev apps\Archit_REST_WITH_DDD\30 - Application Domain\Ordering\Ordering.Infrastructure\obj\Debug\netstandard2.0\Ordering.Infrastructure.pdb
